@@ -9,3 +9,4 @@ Feature: Login Feature
     When A user clicks on the Signup button
     When A user enters the sign up required information
     Then A user must have the account created and will be logged in with correct user name, at the end the account should be deleted.
+

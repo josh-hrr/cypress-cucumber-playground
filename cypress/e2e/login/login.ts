@@ -1,5 +1,7 @@
 import { Given, When, Then } from "@badeball/cypress-cucumber-preprocessor";
- 
+
+//comment added to test git
+
 let myName = "JosueHtestOne";
 let email = `${myName}@test.com`
 let myLastName = "HTest";  
