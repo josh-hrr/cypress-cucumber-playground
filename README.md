@@ -1,4 +1,8 @@
 
+# Cypress UI Automation
+
+We will be using cypress cucumber preprocessor for UI test automation purposes.
+
 ## Installation
 
 Clone git repository and branch by using the following command:
