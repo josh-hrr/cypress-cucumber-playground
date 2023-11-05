@@ -4,7 +4,9 @@
   "description": "test",
   "main": "index.js",
   "scripts": {
-    "test": "cypress open"
+    "test": "cypress open",
+    "test_cli": "cypress run --browser chrome",
+    "test_cli_run": "npm run test_cli --"
   },
   "keywords": [
     "cypress",
