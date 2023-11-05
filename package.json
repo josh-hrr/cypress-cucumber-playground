@@ -6,7 +6,7 @@
   "scripts": {
     "test": "cypress open",
     "test_cli": "cypress run --browser chrome",
-    "test_cli_run": "npm run test_cli --"
+    "test_cli_run": "npm run test_cli --" 
   },
   "keywords": [
     "cypress",
